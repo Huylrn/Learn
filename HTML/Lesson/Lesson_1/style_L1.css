@@ -1,0 +1,63 @@
+/* :root */
+:root {
+    /* Randomly declare a name according to your choice */
+    --mycolor: rgb(148, 71, 71);
+}
+
+h1,
+h2 {
+    color: var(--mycolor);
+}
+
+/* :hover */
+.h3:hover {
+    /* Change the color when you move mouse pointer there  */
+    color: rgb(12, 135, 243);
+}
+
+/* :active */
+.box-1:active {
+    /* Change the color when you press and hold on the object */
+    background-color: rgb(207, 11, 237);
+}
+
+/* :first-child and :last-child : */
+li:first-child {
+    /* Change the color of the child object at the first position */
+    color: rgb(153, 128, 177);
+}
+li:last-child {
+    /* Change the color of the child object at the end position */
+    color: aqua;
+}
+h5:first-child {
+    color: blue;
+}
+h5:last-child {
+    color: brown;
+}
+/* 
+
+--------- LINK-PSEUDO -----------
+
+*/
+a:link {
+    /* Change the background- color of the link */
+    background-color: rgba(32, 179, 152, 0.647);
+    text-decoration: none;
+}
+/* :visited */
+a:visited {
+    /* Change the color of link */
+    color: rgb(204, 255, 1);
+}
+a:hover {
+    /* to ditto */
+    color: red;
+    text-decoration: underline;
+}
+a:active {
+    /* to ditto */
+    color: violet;
+    text-decoration: underline;
+}
