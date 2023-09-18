@@ -1,0 +1,60 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "mainJava",
+      "request": "launch",
+      "mainClass": "mainJava",
+      "projectName": "VsCode_e839b5fd"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "VsCode_e839b5fd"
+    },
+    {
+      "type": "java",
+      "name": "app",
+      "request": "launch",
+      "mainClass": "app",
+      "projectName": "VsCode_e839b5fd"
+    },
+    {
+      "type": "java",
+      "name": "hellowork",
+      "request": "launch",
+      "mainClass": "hellowork",
+      "projectName": "VsCode_e839b5fd"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "VsCode_e839b5fd"
+    },
+    {
+      "name": "Python",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "externalTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "C++",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "console": "integratedTerminal",
+      "preLaunchTask": "C/C++: g++.exe build active file"
+    }
+  ]
+}
