@@ -8,7 +8,7 @@
 
 ## **Basic**
 [^ab]: Tham số và đối số.
-1. ### Argument and parameter [^ab]
+### 1. Argument and parameter [^ab]
 ```cpp
     void person(int age, string name){
         
@@ -18,7 +18,7 @@
     person(18,"HUY"); // 18 and "HUY" are arguments
 ```
 [^pr]: Con trỏ và tham chiếu.
-2. ### Pointers and References [^pr] 
+### 2. Pointers and References [^pr] 
 * **How to declare a pointer**
     ```cpp
         int* a;
@@ -45,3 +45,5 @@
         parapa_pointer(&x); // -> x = 1
 
     ```
+### 3. Array and pointer
+> **List task [here.](task-01.md)**
