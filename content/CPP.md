@@ -51,8 +51,8 @@
 
   * ### **Task 1**
 
-|**_[question](https://codelearn.io/learning/cpp-nang-cao?activityType=12&activityId=972)_**|**_[source code](../C++/Array/task-1-01.cpp)_**|
-|-|-|
+|**_[question](https://codelearn.io/learning/cpp-nang-cao?activityType=12&activityId=972)_**|**_[source code](../C++/Array/task-1-01.cpp)_**|[_**run**_](https://www.programiz.com/cpp-programming/online-compiler/)|
+|-|-|-|
 <details>
 <summary>Code</summary>
 
