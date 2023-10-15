@@ -1,6 +1,6 @@
 ###### [Repository all file](../C++/)
+## [**_Object Oriented Programming in C++_**](../C++/OOP/) [^1]
 [^1]: Lập trình hướng đối tượng trong C++.
-## [**_Object Oriented Programming in C++_**](../C++/OOP/)[^1]
 
 ### Class
 
