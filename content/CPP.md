@@ -7,8 +7,8 @@
 ---
 
 ## **Basic**
-### 1. Argument and parameter [^ab]
-[^ab]: Tham số và đối số.
+### 1. Argument and parameter [^2]
+[^2]: Tham số và đối số.
 ```cpp
     void person(int age, string name){
         
@@ -17,8 +17,8 @@
     //Call in main()    
     person(18,"HUY"); // 18 and "HUY" are arguments
 ```
-### 2. Pointers and References [^pr] 
-[^pr]: Con trỏ và tham chiếu.
+### 2. Pointers and References [^3] 
+[^3]: Con trỏ và tham chiếu.
 * **How to declare a pointer**
     ```cpp
         int* a;
