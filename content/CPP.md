@@ -51,7 +51,7 @@
 
   * ### **Task 1**
 
-|**_[question](https://codelearn.io/learning/cpp-nang-cao?activityType=12&activityId=972)_**|**_[source code](../C++/Array/task-1-01.cpp)_**|[_**run**_](https://onecompiler.com/cpp)|
+|**_[question](https://codelearn.io/learning/cpp-nang-cao?activityType=12&activityId=972)_**|**_[source code](../C++/Array/task-1-01.cpp)_**|[_**run**_]([run])|
 |-|-|-|
 <details>
 <summary>Code</summary>
@@ -88,9 +88,9 @@ int main() {
 
 <!-- BeginTask -->
 
-  * ### **Task**
-|[question]()|[source code](../C++/Array/)|
-|-|-|
+  * ### **Task 2**
+|[question](https://codelearn.io/learning/cpp-nang-cao?activityType=12&activityId=977)|[source code](../C++/Array/task-2-01.cpp)|[**run**]()|
+|-|-|-|
 <details>
 <summary>Code</summary>
 
@@ -103,4 +103,5 @@ int main() {
 
 <!-- endTask -->
 
+[run]: https://onecompiler.com/cpp
 </details>
