@@ -30,7 +30,7 @@ int main() {
     // cout << "Sum s = ";
     // cin >> s;
 
-    square():
+    square();
 
 
     return 0;
