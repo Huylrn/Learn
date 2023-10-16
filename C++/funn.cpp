@@ -24,13 +24,14 @@ void square() {
         cout << "|" << endl;
     }
 } // make a square 5x5
-        
+
 int main() {
     // int s;
     // cout << "Sum s = ";
     // cin >> s;
-    
 
- 
+    square():
+
+
     return 0;
 }
