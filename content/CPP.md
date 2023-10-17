@@ -147,8 +147,8 @@ int main() {
 
 ***
 
-* **Array**
+* **Dynamic Array**
     ```cpp
-    int* array = new int [10];
-    delete[] array;
+    int* array = new int [10]; //Dynamic array declaration.
+    delete[] array; // Free up memory when use dynamic array.
     ```
