@@ -12,7 +12,6 @@ bool PrimeNumber(int a) {
     }
     return true;
 } // check prime number
-
 void square() {
     int line = 5;
     int column = 5;
