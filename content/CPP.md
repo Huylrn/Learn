@@ -152,3 +152,23 @@ int main() {
     int* array = new int [10]; //Dynamic array declaration.
     delete[] array; // Free up memory when use dynamic array.
     ```
+
+### 4. Memory allocation [*more.*](https://codelearn.io/learning/cpp-nang-cao?activityType=8&activityId=979)
+
+[^sma]: Cấp phát bộ nhớ tĩnh.
+* **Static memory allocation**[^sma]
+    ```cpp
+    int a[10];
+    // array a is declared outside the main
+    int main() {
+        return 0;
+    }
+    ```
+[^dma]: Cấp phát bộ nhớ động.
+* **Dynamic memory allocation**[^dma]
+    ```cpp
+    int main() {
+        int a[10]; // array a is declared inside the main
+        return 0;
+    }
+    ```
