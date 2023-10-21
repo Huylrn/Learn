@@ -45,7 +45,7 @@
         parapa_pointer(&x); // -> x = 1
 
     ```
-### 3. Array and pointer
+### 3. Array
 <details>
 <summary>List task</summary>
 
@@ -152,7 +152,7 @@ int main() {
     int* array = new int [10]; //Dynamic array declaration.
     delete[] array; // Free up memory when use dynamic array.
     ```
-
+* Array 
 ### 4. Memory allocation [*more.*](https://codelearn.io/learning/cpp-nang-cao?activityType=8&activityId=979)
 
 [^sma]: Cấp phát bộ nhớ tĩnh.
