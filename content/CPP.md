@@ -200,9 +200,9 @@ int main() {
     int* array = new int [10]; //Dynamic array declaration.
     delete[] array; // Free up memory when use dynamic array.
     ```
-[^multiarr] : Mảng đa chiều.
-* **Multidimensional array**[^multiarr]
-    >[***source code***](#task-3)
+[^multiarr]: Mảng đa chiều.
+* **Multidimensional array** [^multiarr]
+    >[***source code***](../C++/Array/task-3-01.cpp)
     
 ### 4. Memory allocation [*(more).*](https://codelearn.io/learning/cpp-nang-cao?activityType=8&activityId=979)
 
