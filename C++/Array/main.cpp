@@ -24,7 +24,7 @@ void input_array(int *arr, int n, int m) {
 
 } // type value to array
 int main() {
-    // Multidimensional Arrays
+    // Multidimensional Array
     int n,m;
     cin >> n >> m;
     int *arr = new int [n * m];
