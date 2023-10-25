@@ -5,6 +5,19 @@
 ### Class
 
 ---
+<details>
+<!-- head -->
+    <summary><b>Menu</b></summary>
+
+<!-- body -->
+
+- - *
+- [**1. Argument and parameter**](#1-argument-and-parameter-2)
+- [**2. Pointers and References**](#2-pointers-and-references-3)
+- [**3. Array**](#3-array)
+- [**4. Memory allocation**](#4-memory-allocation-more)
+
+</details>
 
 ## **Basic**
 ### 1. Argument and parameter [^2]
@@ -87,7 +100,7 @@ int main() {
 </details>
 
 <!-- endTask1 -->
-
+---
 <!-- BeginTask2 -->
 
   * ### **Task 2**
@@ -125,7 +138,7 @@ int main() {
 </details>
 
 <!-- endTask2 -->
-
+---
 <!-- BeginTask3 -->
 
  
@@ -173,7 +186,7 @@ int main() {
 </details>
  
 <!-- endTask3 -->
-
+---
 <!-- beginTask4 -->
  
   * ### **Task**
