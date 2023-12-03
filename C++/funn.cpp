@@ -1,6 +1,5 @@
 #include <iostream>
 #include <math.h>
-#include "funn.h"
 
 using namespace std;
 
@@ -31,7 +30,6 @@ void square()
         cout << "|" << endl;
     }
 } // make a square 5x5
-
 int main()
 {
     // int s;
